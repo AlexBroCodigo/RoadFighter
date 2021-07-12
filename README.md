@@ -17,6 +17,6 @@ Por último, en el archivo reglas.ply puedes especificar las configuraciones del
 Estructura: **NIVEL;nivel;TiempoNivel;TiempoObstaculos;TiempoPremio;PuntosObstaculos;PuntosPremios;color**  
 Ejemplo: *Nivel;1;30;2;4;rojo*
 ___
-### Aplicaciones utilizadas:
+## Aplicaciones utilizadas:
 * **DOSBox 0.74-3 - emulador**
 * **MASM - Ensamblador**
