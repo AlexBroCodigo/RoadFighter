@@ -8,11 +8,11 @@ Los usuarios puede registrarse para llevar un registro del punteo y tiempo que s
 ![principal](https://user-images.githubusercontent.com/65095924/125208233-90d2e980-e24e-11eb-82ea-39e3cfb091ad.png)
 
 * **Usuario Administrador:** 
-* Este usuario esta por defecto en el juego, como admin y contraseña: 1234, al acceder a el nos permite ver los top 10 de puntos y tiempo, además si logras acceder a la puerta trasera nos permitirá ordenarlos de forma ascendente o descendente con cualquiera de los 3 algoritmos: BubbleSort, QuickSort o ShellShort. 
+   Este usuario esta por defecto en el juego, como admin y contraseña: 1234, al acceder a el nos permite ver los top 10 de puntos y tiempo, además si logras acceder a la puerta trasera nos permitirá ordenarlos de forma ascendente o descendente con cualquiera de los 3 algoritmos: BubbleSort, QuickSort o ShellShort. 
 
 ![barras](https://user-images.githubusercontent.com/65095924/125208243-a1835f80-e24e-11eb-85ad-a62eeb41dc4e.png)
 
-Por ultimo, en el archivo reglas.ply nos permite especificar las configuraciones del juego por nivel:
+Por ultimo, en el archivo reglas.ply puedes especificar las configuraciones del juego por nivel como tu quieras siguiendo la estructura:
 
 Estructura:
 **NIVEL;nivel;TiempoNivel;TiempoObstaculos;TiempoPremio;PuntosObstaculos;PuntosPremios;color**
