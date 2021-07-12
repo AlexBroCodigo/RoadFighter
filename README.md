@@ -12,12 +12,10 @@ Este usuario esta por defecto en el juego, como admin y contraseña: 1234, al ac
 
 ![barras](https://user-images.githubusercontent.com/65095924/125208243-a1835f80-e24e-11eb-85ad-a62eeb41dc4e.png "Barras TOP")
 
-Por último, en el archivo reglas.ply puedes especificar las configuraciones del juego por nivel como tu quieras siguiendo la estructura:  
-**NIVEL;nivel;TiempoNivel;TiempoObstaculos;TiempoPremio;PuntosObstaculos;PuntosPremios;color**
+Por último, en el archivo reglas.ply puedes especificar las configuraciones del juego por nivel como tú quieras siguiendo la estructura.  
+Estructura: **NIVEL;nivel;TiempoNivel;TiempoObstaculos;TiempoPremio;PuntosObstaculos;PuntosPremios;color**  
 
-Ejemplo:
-*Nivel;1;30;2;4;rojo*
-
+Ejemplo: *Nivel;1;30;2;4;rojo*
 ___
 ### Aplicaciones utilizadas:
 * **DOSBox 0.74-3 - emulador**
